@@ -1,4 +1,4 @@
-**Welcome to My Portfolio!**
+**Welcome!**
 
 This project stands as a cornerstone of my academic journey, culminating in the completion of my Bachelor of Mathematics degree in 2021.
 Titled "Using Decision Tree-Based Data Mining to Predict Types of Apparels," it delves into the realm of machine learning applied to fashion
