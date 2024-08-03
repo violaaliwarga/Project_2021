@@ -8,4 +8,4 @@ classification using the DeepFashion dataset.
 
 [2] Sheeman Jain and Vijay Kumar. "Machine Learning Approach for Classification of Clothing using Various Algorithms." International Journal of Computer Applications, vol. 154, no. 1, 2016.
 
-Full article: https://violaaliwarga.wordpress.com/?p=47
+Full article [here](https://violaaliwarga.wixsite.com/data/post/optimizing-apparel-categorization-using-decision-tree-based-data-mining-in-python-a-deepfashion-cas)
